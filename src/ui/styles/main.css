@@ -1,0 +1,7 @@
+/* main.css */
+/* Estilos globales de la app */
+@import 'bootstrap/dist/css/bootstrap.min.css';
+
+body {
+  font-family: sans-serif;
+}
